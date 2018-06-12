@@ -1,7 +1,10 @@
-/server
-	/bin
-		./solc		-The compiled Solidity interpreter binary file
-				https://solidity.readthedocs.io/en/latest/installing-solidity.html#building-from-source
+
+	
+	/server
+		/bin
+			./solc		-The compiled Solidity interpreter binary file
+					https://solidity.readthedocs.io/en/latest/installing-solidity.html#building-from-source
+
 
 	/etc.d
 		./php-webserver-check.sh	- is the server work now? Check it. 
@@ -10,7 +13,9 @@
 	
 		./php-webserver-config.sh	- server settings
 		./php-webserver-run.sh	- script is for server run
-		
-/client
-	./rpc_sol_client.php - It's class for compiling contact by RPC request
+
+
+	/client
+		./rpc_sol_client.php - It's class for compiling contact by RPC request
+	
 
