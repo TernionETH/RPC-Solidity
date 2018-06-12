@@ -16,6 +16,6 @@
 
 
 	/client
-		./rpc_sol_client.php - It's class for compiling contact by RPC request
+		./rpc_sol_client.php - It's class for compiling smart-contract by RPC request
 	
 
