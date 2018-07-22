@@ -19,3 +19,7 @@
 		./rpc_sol_client.php - It's class for compiling smart-contract by RPC request
 	
 
+
+
+
+### If  by any case you have questions arising. Kindly contact us at - https://t.me/TernionOfficial and we will be more than happy to discuss your questions.
